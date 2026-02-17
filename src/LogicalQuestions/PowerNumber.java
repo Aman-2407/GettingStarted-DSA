@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 public class PowerNumber {
     static void main(String[] args) {
         int num=5;

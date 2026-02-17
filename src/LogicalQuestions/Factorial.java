@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 public class Factorial {
 
     public static void main(String[] args) {
@@ -9,6 +11,6 @@ public class Factorial {
 
 
                 }
-        System.out.println("Factorial of "+n+ " is "+ fact);
+        System.out.println("LogicalQuestions.Factorial of "+n+ " is "+ fact);
     }
 }

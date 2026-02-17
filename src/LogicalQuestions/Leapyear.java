@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 import java.util.Scanner;
 
 public class Leapyear {

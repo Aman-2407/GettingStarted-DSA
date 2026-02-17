@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 public class SwappinfTwoNumbers {
     public static void main(String[] args) {
         int n1=20;

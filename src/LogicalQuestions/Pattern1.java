@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 public class Pattern1 {
     static void main(String[] args) {
         int n=5;

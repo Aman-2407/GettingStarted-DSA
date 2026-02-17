@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 public class FibonacciSeries {
     static void main(String[] args) {
         int a=0;

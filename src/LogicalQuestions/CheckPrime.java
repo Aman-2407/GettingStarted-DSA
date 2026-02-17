@@ -1,4 +1,4 @@
-//Check prime with 1- 100 number
+package LogicalQuestions;//Check prime with 1- 100 number
 
 class checkPrimeNum {
     public void isPrime() {

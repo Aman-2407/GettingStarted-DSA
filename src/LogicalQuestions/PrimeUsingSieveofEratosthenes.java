@@ -1,4 +1,6 @@
- class primeCheck{
+package LogicalQuestions;
+
+class primeCheck{
     public void sieve(int n){
         boolean [] isPrime = new boolean[n+1];
         for( int i=0 ;i<=n;i++)

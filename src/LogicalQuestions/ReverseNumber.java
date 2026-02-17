@@ -1,3 +1,5 @@
+package LogicalQuestions;
+
 class Palindrome{
 
     public void isPalindrome(int num) {
@@ -10,10 +12,10 @@ class Palindrome{
           num=num/10;
       }
       if(reverse == original){
-          System.out.println(reverse + "is a Palindrome Number");
+          System.out.println(reverse + "is a LogicalQuestions.Palindrome Number");
       }
       else {
-          System.out.println(reverse + "is not a Palindrome Number");
+          System.out.println(reverse + "is not a LogicalQuestions.Palindrome Number");
 
       }
 
