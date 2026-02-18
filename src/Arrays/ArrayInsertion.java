@@ -10,8 +10,18 @@ public class ArrayInsertion {
 
         for (int i = 0; i < index; i++) {
             newArr[i] = arr[i];
-            newArr[index]= new_element;
+
         }
+
+        newArr[index] = new_element;
+
+        for(int i=index;i<arr.length;i++){
+            newArr[i+1]= arr[i];
+        }
+        for (int no : newArr){
+            System.out.println(no+ " ");
+        }
+
 
         for (int i = index; i <arr.length ; i++) {
             newArr[i+1]= arr[i];
