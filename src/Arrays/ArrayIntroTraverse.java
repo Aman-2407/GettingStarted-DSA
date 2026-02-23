@@ -1,7 +1,7 @@
-package Arrays;
+//package Arrays;
 
-public class ArrayIntroTraverse {
-    public static void main(String[] args) {
+
+    void main() {
 
         int [] arr = {23,354,454};
 
@@ -15,4 +15,4 @@ public class ArrayIntroTraverse {
         }
 
     }
-}
+
