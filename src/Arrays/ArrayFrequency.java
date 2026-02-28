@@ -8,9 +8,7 @@ public class ArrayFrequency {
         int count=0;
         int target=3;
         for(int i=0;i<arr.length-1;i++){
-            if(arr[i]==target){
-                count++;
-            }
+            if(arr[i]==target) count++;
         }
         System.out.println("Frequency of "+target+" is "+count);
 
